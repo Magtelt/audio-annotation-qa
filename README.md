@@ -27,4 +27,4 @@ The document analyses the structural mechanisms behind this process and proposes
 
 ## Relevant areas
 
-audio annotation • linguistic QA • dataset quality • reviewer calibration • guideline design • taxonomy design
+audio annotation • linguistic QA • dataset quality • reviewer calibration • guideline design • taxonomy design • Russian language • NLP data quality
